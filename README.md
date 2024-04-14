@@ -50,15 +50,15 @@ To use the tax calculator:
                                           ## Test Cases:
   
 
-                                            #Case No:1
+                                            #Case No:7
 
 <img width="353" alt="Screenshot 2024-04-14 165550" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/a35fb369-a8a4-4c78-aecc-6ca9357c8dd3">
 
-                                               #Case No:2
+                                               #Case No:6
 
 <img width="314" alt="Screenshot 2024-04-14 165521" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/49128259-dab1-4aef-b35f-48de20f39746">
 
-                                                #Case No:3
+                                                #Case No:5
 
 <img width="343" alt="Screenshot 2024-04-14 165452" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/83373083-74bd-41d6-81eb-aec2a3c98384">
 
@@ -66,14 +66,14 @@ To use the tax calculator:
 
 <img width="323" alt="Screenshot 2024-04-14 165413" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/7dbaf11a-0d58-4561-bad6-417c3e571e5c">
 
-                                               #Case No:5
+                                               #Case No:3
 
 <img width="266" alt="Screenshot 2024-04-14 165341" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/502a4c34-654a-4ce9-a354-842c77c00a2c">
 
-                                               #Case no:6
+                                               #Case no:2
 
 <img width="312" alt="Screenshot 2024-04-14 165257" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/0ad6294c-ce9b-4996-9a86-2ac95f186f28">
 
-                                                #Case No:7
+                                                #Case No:1
 
 <img width="272" alt="Screenshot 2024-04-14 163635" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/0e792d25-c0c1-457a-b625-b3be7ba3865c">
