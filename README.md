@@ -49,3 +49,10 @@ To use the tax calculator:
 
 
 
+![Screenshot (7)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/29a5c75c-87a2-4757-9857-c76f85c7f59f)
+![Screenshot (6)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/d7d32e9f-d54b-4e3a-b66d-2a520aaf620d)
+![Screenshot (5)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/9a1e27e3-30cb-4991-8a7d-5f54d91337bc)
+![Screenshot (4)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/ad09658d-8278-4c44-9dde-e1e55980c491)
+![Screenshot (3)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/6220d09f-03a8-4d43-be78-8f54a1b31836)
+![Screenshot (2)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/3ac387c4-4474-4441-aea8-c188737879d2)
+![Screenshot (1)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/c5026b3f-9387-499a-94e7-b071c0e2c880)
