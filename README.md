@@ -47,12 +47,19 @@ To use the tax calculator:
 - Click the submit button to calculate the overall income and display the result.
 - If any input is invalid, error messages will be shown to guide the user on how to correct the inputs.
 
+## Test Cases:
 
-
-![Screenshot (7)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/29a5c75c-87a2-4757-9857-c76f85c7f59f)
-![Screenshot (6)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/d7d32e9f-d54b-4e3a-b66d-2a520aaf620d)
-![Screenshot (5)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/9a1e27e3-30cb-4991-8a7d-5f54d91337bc)
-![Screenshot (4)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/ad09658d-8278-4c44-9dde-e1e55980c491)
-![Screenshot (3)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/6220d09f-03a8-4d43-be78-8f54a1b31836)
-![Screenshot (2)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/3ac387c4-4474-4441-aea8-c188737879d2)
-![Screenshot (1)](https://github.com/Girdhari13/Fyle-assignment/assets/156057543/c5026b3f-9387-499a-94e7-b071c0e2c880)
+#Case No:1
+<img width="353" alt="Screenshot 2024-04-14 165550" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/a35fb369-a8a4-4c78-aecc-6ca9357c8dd3">
+#Case No:2
+<img width="314" alt="Screenshot 2024-04-14 165521" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/49128259-dab1-4aef-b35f-48de20f39746">
+#Case No:3
+<img width="343" alt="Screenshot 2024-04-14 165452" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/83373083-74bd-41d6-81eb-aec2a3c98384">
+#Case No:4
+<img width="323" alt="Screenshot 2024-04-14 165413" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/7dbaf11a-0d58-4561-bad6-417c3e571e5c">
+#Case No:5
+<img width="266" alt="Screenshot 2024-04-14 165341" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/502a4c34-654a-4ce9-a354-842c77c00a2c">
+#Case no:6
+<img width="312" alt="Screenshot 2024-04-14 165257" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/0ad6294c-ce9b-4996-9a86-2ac95f186f28">
+#Case No:7
+<img width="272" alt="Screenshot 2024-04-14 163635" src="https://github.com/Girdhari13/Fyle-assignment/assets/156057543/0e792d25-c0c1-457a-b625-b3be7ba3865c">
